@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-29T12:30:54 IST" name="Default suite" finished-at="2022-01-29T12:31:03 IST" duration-ms="8568">
+    <groups>
+    </groups>
+    <test started-at="2022-01-29T12:30:54 IST" name="Default test" finished-at="2022-01-29T12:31:03 IST" duration-ms="8568">
+      <class name="com.Frame.loginTest">
+        <test-method is-config="true" signature="setUpEnvironemt()[pri:0, instance:com.Frame.loginTest@6bf0219d]" started-at="2022-01-29T12:30:54 IST" name="setUpEnvironemt" finished-at="2022-01-29T12:31:00 IST" duration-ms="5392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpEnvironemt -->
+        <test-method signature="clickUserName()[pri:0, instance:com.Frame.loginTest@6bf0219d]" started-at="2022-01-29T12:31:00 IST" name="clickUserName" finished-at="2022-01-29T12:31:02 IST" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickUserName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Frame.loginTest@6bf0219d]" started-at="2022-01-29T12:31:02 IST" name="tearDown" finished-at="2022-01-29T12:31:03 IST" duration-ms="1079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Frame.loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
